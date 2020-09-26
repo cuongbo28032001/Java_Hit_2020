@@ -1,0 +1,10 @@
+git config --global user.email "cuongbo28032001@gmail.com"
+git config --global user.name "Đoàn Cường"
+git config -- global --list
+git init
+git status
+git add + (ten file) or git add .
+git commit --m"...(thong tin chinh sua)"
+git log --oneline
+git push origin master
+
