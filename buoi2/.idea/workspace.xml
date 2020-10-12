@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="257ec777-03ae-4b1a-88a5-cda5d9b621f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../buoi1/demo1/build/classes/runmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi1/demo1/build/classes/runmain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../buoi1/demo1/src/runmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi1/demo1/src/runmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,19 +66,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1601872600277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601872600277" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601872685590">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601900116771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601872685590" />
-    <state x="407" y="33" key="new project wizard" timestamp="1601872688309">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601900116771" />
+    <state x="407" y="33" key="new project wizard" timestamp="1601900118676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="407" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601872688309" />
+    <state x="407" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601900118676" />
   </component>
 </project>
