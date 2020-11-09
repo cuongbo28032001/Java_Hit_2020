@@ -1,4 +1,4 @@
-package main;
+﻿package main;
 
 
 public class RunMain {
@@ -61,7 +61,7 @@ public class RunMain {
                 {
                     System.exit(0);
                 }
-            }System.out.print("\nBạn có muốn tiếp tục không? (c/k): ");
+            }DDDD\System.out.print("\nBạn có muốn tiếp tục không? (c/k): ");
             ck = sc.next().charAt(0);
             if(ck == 'k')
                 System.out.println("-----------BYE------------");

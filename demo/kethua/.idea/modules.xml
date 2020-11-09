@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/dahinh/dahinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/interface.iml" filepath="$PROJECT_DIR$/Interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/kethua.iml" filepath="$PROJECT_DIR$/kethua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truutuong/truutuong.iml" filepath="$PROJECT_DIR$/truutuong/truutuong.iml" />
     </modules>
   </component>
 </project>
