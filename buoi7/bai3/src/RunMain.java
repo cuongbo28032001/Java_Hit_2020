@@ -45,7 +45,7 @@ public class RunMain {
                         System.out.println("-----------------------------------------------");
                         System.out.println("LIST NEWS");
                         for (News s : list) {
-                            s.Display();
+                            s.display();
                             System.out.println("-----------------------------------------------");
                         }
                     }
@@ -57,7 +57,7 @@ public class RunMain {
                         for (int i = 0; i < list.size(); i++) {
                             list.get(i).Calculate();
                             System.out.println("-----------------------------------------------");
-                            list.get(i).Display();
+                            list.get(i).display();
                         }
                     }
                     break;
